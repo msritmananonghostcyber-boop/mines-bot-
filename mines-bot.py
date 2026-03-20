@@ -5,9 +5,9 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 BOT_TOKEN = "YOUR_BOT_TOKEN"
-ADMIN_ID = 123456789   # apna Telegram ID daalo
+ADMIN_ID = 6444034994   # apna Telegram ID daalo
 
-FREE_CHANNEL = -1001111111111
+FREE_CHANNEL = 1003858720287
 VIP_CHANNEL = -1002222222222
 
 VIP_FILE = "vip_users.json"
